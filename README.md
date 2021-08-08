@@ -10,5 +10,6 @@ Clique no número para ler o texto e clique em código para visualizar o algorit
  - [#003](https://www.orikami.dev/cards/code-card-big-o-notation-reduce-terms-non-dominant/) Reduzindo termos não dominantes...  [código](./code-cards/003.py) 
  - [#004](https://www.orikami.dev/cards/code-card-big-o-notation-add-vs-multiply/) Somar ou multiplicar os tempos de execução? 
  - [#005](https://www.orikami.dev/cards/code-card-big-o-notation-n-log-runtimes/) Como funciona tempos de execução com log N?  [código](./code-cards/005.py)
+ - [#006](https://www.orikami.dev/cards/code-card-big-o-notation-recursives-runtimes/) Como obter a complexidade de tempo de algoritmos recursivos?  [código](./code-cards/006.py)
 
 Aguarde os próximos cards!
